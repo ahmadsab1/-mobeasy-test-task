@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102688073158",
+    "project_id": "mobeasy-test-task",
+    "storage_bucket": "mobeasy-test-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102688073158:android:9b2d79abb1456f3ff5fec7",
+        "android_client_info": {
+          "package_name": "com.example.mobeasy_test_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWJ3ov9HTdNB3GMVw9LyCZIeaYxb8WSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
